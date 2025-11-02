@@ -2,18 +2,23 @@
 :root {
 --bg-image: url(../images/cover-image-dark.png);
 --bg-color: #000028;
-    --font-family: 'IBM Plex mono';
-    --nav-color: #ff0070;
-    --main-gap: 10px;
-    --main-line-height: 1.3;
-    --heder-logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem); 
-    --accent-color: #ff0070;
-    --logo-color: #DB00FF;
-    --main-heading-color: #000028;
-    --section-color: #ff0070;
-    --main-text-size: 18px;
-    --main-text-color: #F1B2CE;
-    --decorated-dark: 1;   
+--font-family: 'IBM Plex mono', monospace;
+--nav-color: #ff0070;
+--main-gap: 10px;
+--main-line-height: 1.3;
+--heder-logo-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem); 
+--accent-color: #ff0070;
+--logo-color: #DB00FF;
+--main-heading-color: #000028;
+--section-color: #ff0070;
+--main-text-size: 18px;
+--decorated-dark: 1;   
+--menu-button-hover: #FF007066;
+--link-color: #ff0070;
+--button-color: #ff0070;
+--decor-color: #ff0070;
+--main-text-color: #ffeef6;
+--main-card-title: #353430;
 }
 
 @media(min-width: 768px) {

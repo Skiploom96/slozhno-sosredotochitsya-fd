@@ -1,12 +1,13 @@
 
 :root.theme-dark {
---bg-image: url(../images/cover-image-dark.png);
---bg-color: #000028;
-    --nav-color: #ff0070;
-    --accent-color: #ff0070;
-    --logo-color: #DB00FF;
-    --main-heading-color: #000028;
-    --section-color: #ff0070;
-    --main-text-color: #F1B2CE; 
-    --decorated-dark: 1;    
+--bg-image: url(../images/cover-image-dark.png);--bg-color: #000028;
+--nav-color: #ff0070;
+--accent-color: #ff0070;
+--logo-color: #DB00FF;
+--main-heading-color: #000028;
+--section-color: #ff0070;
+--main-text-color: #ffeef6;
+--main-card-title: #ff0070;
+--decorated-dark: 1;    
+--link-color: #F1B2CE;
 }
