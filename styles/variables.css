@@ -13,12 +13,15 @@
 --section-color: #ff0070;
 --main-text-size: 18px;
 --decorated-dark: 1;   
---menu-button-hover: #FF007066;
+--menu-button-hover: rgba(255, 0, 112, 0.4);
 --link-color: #ff0070;
 --button-color: #ff0070;
 --decor-color: #ff0070;
---main-text-color: #ffeef6;
---main-card-title: #353430;
+--main-text-color: #F1B2CE;
+--main-card-title: #ff0070;
+--menu-button-focus-visible:#ff0070;
+--text-color: #ffeef6;
+--decor-color-сfere: #FF0070;
 }
 
 @media(min-width: 768px) {
